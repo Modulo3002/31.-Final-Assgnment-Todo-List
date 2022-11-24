@@ -1,0 +1,42 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(232, 224, 125);
+    
+}
+
+label{
+    font-size: large;
+    
+}
+
+input{
+    background-color: white;
+    font-size: 14px;
+    border-radius: 25px;
+    width: 140px;
+    height: 35px; 
+    margin-left: 10px;
+    cursor:auto;
+    
+}
+
+button{
+    background-color: white;
+    font-size: 14px;
+    border-radius: 25px;
+    width: 100px;
+    height: 35px; 
+    margin-left: 10px;
+    cursor:pointer;
+}
+
+i{
+    color: red;
+    font-size: larger;
+    margin-left: 10px;
+}
+
+li{
+    margin-top: 15px;
+    border: 2px;
+}
